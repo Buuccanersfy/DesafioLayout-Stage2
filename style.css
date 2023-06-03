@@ -1,0 +1,59 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  margin: 0;
+   }
+
+#hero{
+     width: 626px;
+     margin: 64px auto 64px;
+   }
+
+h1{
+font-family: 'Dosis', sans-serif;
+font-weight: normal;
+font-size: 32px;
+color: #3f3d56;
+margin-bottom: 16px;
+}
+
+h1 span{
+  font-weight: bold;
+  color: #ee24ff;
+}
+
+span, #Footer{
+  font-weight: 700;
+  color: #3F3D56;
+}
+
+p, #Footer{
+  font-size: 15px;
+  line-height: 22px;
+  color: #828282;
+  margin-top: 16px;
+   }
+
+#Footer a + a {
+    
+  margin-left: 28px;
+  
+}
+
+a:link { 
+  text-decoration: none; 
+}
+.line{
+  height: 0px;
+  width: 391px;
+  border: 1px solid #ECEFF2;
+  margin: 64px auto 16px ;
+  
+}
+.Rodape{
+position:relative;
+width: 100%;
+left: 0px;
+top: 64px;
+
+}
